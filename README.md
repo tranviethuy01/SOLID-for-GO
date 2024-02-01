@@ -1,4 +1,4 @@
-# SOLID-for-GO
+# SOLID for GO Development
 This repository is code that i use to demonstrate how to apply SOLID Principle in GO Development
 
 # Basic understanding for SOLID Principle
